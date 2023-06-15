@@ -1,2 +1,4 @@
-FROM ahmadshahrour/apache
-ADD . var/www.html
+FROM ahmedshahrour/apache
+ADD . var/www/html
+
+
